@@ -124,6 +124,8 @@ for x in new_list:
     else:
         updated_list.append(x)
 
+# displaying curencies and count
+
 from collections import Counter
 
 final_list = Counter(sorted(updated_list)).most_common()
@@ -135,6 +137,7 @@ final_list = final_list[:5]  # selecting the top 5 currencies
 x_val = [x[0] for x in final_list]
 y_val = [x[1] for x in final_list]
 
+# displaying bar plot
 fig, ax = plt.subplots()
 ax.bar(x_val, y_val, color="cyan")
 plt.xlabel("Currencies")
