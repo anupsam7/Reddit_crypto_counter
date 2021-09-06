@@ -1,4 +1,4 @@
-# Analysis of [Cryptocurrency Subreddit](https://www.reddit.com/r/CryptoCurrency/) to determine count of mention of various Crypto Currencies
+# Analysis of [Cryptocurrency Subreddit](https://www.reddit.com/r/CryptoCurrency/) to determine count of mention of various Crypto Currencies.
 
 ## [WebApp Created](https://crypto-counter-reddit.herokuapp.com/)
 
